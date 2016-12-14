@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="configuracao">Configuração</string>
+	<string name="classificacao">Classificação</string> 
+	<string name="estadios">Estádios</string>
+	<string name="favoritos">Favoritos</string>
+	<string name="lugar">Lugar</string>
+	<string name="aviso">Aviso!</string>
+	<string name="ja_esta_em_favoritos"> já está em favoritos</string>
+	<string name="deseja_excluir_favoritos">Deseja excluir dos favoritos?</string> 
+	<string name="excluir_time">Excluir Time </string>
+	<string name="sim">Sim</string>
+	<string name="nao">Não</string>
+</resources>

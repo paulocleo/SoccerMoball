@@ -1,0 +1,16 @@
+<Alloy>
+	<Tab id="classificacaoTab" onClick="callClassificacao">
+		<Window id="idWindow">
+			<TableView id="myTableView">
+				<TableViewRow>
+					<!-- <View id="viewPosicao">
+					<Label id="posicao"></Label>>
+					</View> -->
+					<View id="view">
+						<ImageView id="image" />
+					</View>
+				</TableViewRow>
+			</TableView>
+		</Window>
+	</Tab>
+</Alloy>

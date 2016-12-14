@@ -1,0 +1,7 @@
+<Alloy>
+	<Tab id="estadiosTab">
+		<Window>
+			<Require src="estadiosDetails"></Require>
+		</Window>
+	</Tab>
+</Alloy>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="configuracao">Configuration</string>
+	<string name="classificacao">Classification</string> 
+	<string name="estadios">Stadiums</string> 
+	<string name="favoritos">Favorites</string>
+	<string name="lugar">Position</string>
+	<string name="aviso">Notice!</string>
+	<string name="ja_esta_em_favoritos"> is already in favorites</string>
+	<string name="deseja_excluir_favoritos">Do you want to delete from favorites?</string> 
+	<string name="excluir_time">Delete team </string>
+	<string name="sim">Yes</string>
+	<string name="nao">No</string>
+</resources>

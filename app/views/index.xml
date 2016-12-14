@@ -1,0 +1,10 @@
+<Alloy>
+	<TabGroup>
+		<Menu platform="android">
+			<MenuItem id="configuracao"></MenuItem>
+		</Menu>
+		<Require src="classificacao"></Require>
+		<Require src="estadios"></Require>
+		<Require src="favoritos"></Require>
+	</TabGroup>
+</Alloy>

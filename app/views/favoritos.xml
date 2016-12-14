@@ -1,0 +1,9 @@
+<Alloy>
+	<Tab id="favoritosTab" onClick="abrirFavoritos">
+		<Window> 
+			<TableView id="myTableViewFavorito">
+				
+			</TableView>
+		</Window>
+	</Tab>
+</Alloy>
